@@ -171,21 +171,21 @@ Creating and presenting financial projections in your pitch is crucial for attra
 
 10. Call to Action:
     - What is a call to action in the context of a software project pitch? Provide examples of effective calls to action that can be used to close your pitch.
-In the context of a software project pitch, a call to action (CTA) is a clear directive aimed at prompting potential investors or stakeholders to take a specific action. It serves to solidify the next steps and guide the audience towards making a decision in favor of your project. Examples of effective calls to action you can use to close your pitch:
+-In the context of a software project pitch, a call to action (CTA) is a clear directive aimed at prompting potential investors or stakeholders to take a specific action. It serves to solidify the next steps and guide the audience towards making a decision in favor of your project. Examples of effective calls to action you can use to close your pitch:
 
-1. **Request for a Meeting or Follow-Up Discussion:**
+  1. **Request for a Meeting or Follow-Up Discussion:**
    - "I would love to discuss this further with you. Could we schedule a follow-up meeting next week to delve deeper into our project's potential?"
 
-2. **Invitation to Demo or Trial:**
+  2. **Invitation to Demo or Trial:**
    - "I invite you to experience our software firsthand. Would you be interested in a personalized demo to see how our platform can address your specific needs?"
 
-3. **Commitment to Provide Additional Information:**
+  3. **Commitment to Provide Additional Information:**
    - "If you'd like more detailed financial projections or a breakdown of our technical architecture, I'm happy to provide that. Could I send those over to you by the end of this week?"
 
-4. **Proposal for Collaboration:**
+  4. **Proposal for Collaboration:**
    - "Let's explore how we can collaborate. Would you consider partnering with us to bring this software to market more effectively?"
 
-5. **Call for Investment:**
+  5. **Call for Investment:**
    - "We're seeking strategic partners to join us on this exciting journey. Are you interested in discussing potential investment opportunities?"
 
 6. **Encouragement for Feedback:**
